@@ -1,29 +1,22 @@
-Eugene Wu is broadly interested in technologies that help users play with
-their data.  His goal is for users at all technical
-levels to effectively and quickly make sense of their information.
-He is interested in solutions that ultimately improve the interface between
-users and data, and techniques borrowed from fields such as data management, 
-systems, crowd sourcing, visualization, and HCI.
-Eugene Wu recieved his Ph.D. from  [MIT](http://www.csail.mit.edu),
-B.S. from [Cal](http://www.cs.berkeley.edu),
-and was a Postdoc in the [AMPLab](https://amplab.cs.berkeley.edu).
-[A profile](http://www.cs.columbia.edu/2015/wu-profile/),
-[informal bio](http://partnews.brownbag.me/2012/02/29/better-know-a-classmate-eugene-wu/), 
-[obit](./obit.html).
+I am currently a Ph.D student at MIT CSAIL in the 
+[PDOS](https://pdos.csail.mit.edu/) group, 
+advised by [Nickolai Zeldovich](https://people.csail.mit.edu/nickolai/) 
+and [James Mickens](https://mickens.seas.harvard.edu).
+I also work closely with [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/),
+[Shafi Goldwasser](http://people.csail.mit.edu/shafi/),
+and [Matei Zaharia](https://cs.stanford.edu/~matei/).
+I received my B.S. in computer science from Stanford University
+advised by [Dan Boneh](http://crypto.stanford.edu/~dabo/).
 
-
-<!--by [@mstem](http://partnews.brownbag.me/2012/02/29/interview-matt-stempeck-wants-to-change-the-world-with-tech/),-->
-
-[Eugene Wu heads the WuLab](http://cudbg.github.io/lab)
-
-
-<!--advised by the esteemed [Sam Madden](http://db.lcs.mit.edu/madden/) and 
-[Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker),
-in the [database](http://db.csail.mit.edu/) group.
-before starting at <a href="http://www.cs.columbia.edu">Columbia University</a> in Fall 2015.-->
-<!--advised by the esteemed [Sam Madden](http://db.lcs.mit.edu/madden/) and 
-[Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker),
-in the [database](http://db.csail.mit.edu/) group.
-before starting at <a href="http://www.cs.columbia.edu">Columbia University</a> in Fall 2015.-->
-
-
+I am interested in building practical secure systems, 
+focused on developing methods to use cryptography more efficiently and broadly.
+My philosophy is that breaches and hacks have become inevitable, 
+and the goal of my systems is to minimize information leakage when these
+breaches occur. More broadly, my research interests lie at the 
+intersection of systems, cryptography, and web applications.
+ 
+I also enjoy collaborating closely and interacting frequently
+with industry. 
+I co-founded [Cybersecurity Factory](https://cybersecurityfactory.com) with
+[Jean Yang](http://jeanyang.com), a summer program for early stage cybersecurity
+startups, and I am a member of [Rough Draft Ventures](http://roughdraft.vc).

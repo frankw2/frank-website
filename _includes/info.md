@@ -1,14 +1,15 @@
 #### Info
 
-[ewu@cs.columbia.edu](mailto:ewu@cs.columbia.edu)   
-[421 Mudd, 500 W 120th St]({{ "/files/images/map.png" | relative_url }})   
-Twitter: [@sirrice](https://twitter.com/sirrice)   
-Github: [sirrice](http://github.com/sirrice), [cudbg](http://github.com/cudbg)   
-OH: --   
+[frankw@mit.edu](mailto:frankw@mit.edu)  
+<!--[32-G978B, 32 Vassar Street](http://whereis.mit.edu/?go=32)  -->
+[Curriculum Vitae](./files/cv/cv.pdf)  
 
+LinkedIn: [frankw1](https://www.linkedin.com/in/frankw1/)  
+Medium: [ffwang2](https://medium.com/@ffwang2)  
+Twitter: [@ffwang2](https://twitter.com/ffwang2)  
+<!-- Github: [ffwang2](https://github.com/frankw2) -->
 
-Co-Chair: <a href="http://datascienceinstitute.github.io">Data, Media & Society</a><br/>
-Advisor:  <a href="http://www.cs.columbia.edu/education/ms/journalism/">Journalism + CS Dual Degree</a><br/>
-Member: <a href="http://cudbg.github.io/">cudbg</a>, <a href="http://www.cs.columbia.edu/">Columbia CS</a>, <a href="http://datascience.columbia.edu/">DSI</a><br/>
-
-Support: [NSF 1527765](http://perceptvis.github.io/), [NSF 1564049](https://nsfdeclarativevis.github.io/NSFDeclarativeVis/).  
+Director: [MIT Security Seminar](http://css.csail.mit.edu/security-seminar/)  
+Co-founder: [Cybersecurity Factory](http://cybersecurityfactory.com/)  
+Member: [Rough Draft Ventures](http://roughdraft.vc/)  
+Board of Trustees: [Sidney-Pacific](http://s-p.mit.edu/)

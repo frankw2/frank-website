@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/frankw2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://frankwang.org
+  * I am frankw2 (https://keybase.io/frankw2) on keybase.
+  * I have a public key with fingerprint 05A4 40C3 BA42 1DCC A790  ABF2 EE13 7A70 5867 8B30
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017420ce0b082234f4ae7a4af60af0181114c95c6491424cc46701975f4f2f89cd0a",
+            "fingerprint": "05a440c3ba421dcca790abf2ee137a7058678b30",
+            "host": "keybase.io",
+            "key_id": "ee137a7058678b30",
+            "kid": "01017420ce0b082234f4ae7a4af60af0181114c95c6491424cc46701975f4f2f89cd0a",
+            "uid": "1df0d28231e76259abf0167cff604419",
+            "username": "frankw2"
+        },
+        "revoke": {
+            "sig_ids": [
+                "86a117808062c14a81ced39576135ffcb8d4276f2768231d5619692b36126a660f"
+            ]
+        },
+        "service": {
+            "hostname": "frankwang.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1464530491,
+    "expire_in": 157680000,
+    "prev": "6dc4adb77606a21ee444c5c001395dd977e8e688e44f6d53f33d723edd9ca0c1",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJsAnicrZJdaBVHFMfvNaaJqakJFKu2Kg5iHwzpzOzszO6tVjSCTdUoxI+QNlxm
+5+NmG9297m5uFAm1BpVikaD4YFqpKYJIHrStCaho1Kb0oYWbKsWKvghCaYptwQ/0
+odbZoA+Cjx0YhjnzP//zmzMzVluRqclW7Kq7Vf3vtsHsT5fvd2c2f/Dw3Z3AC+UO
+kNsJutTkorZIFSf5Ll+CHIAIIkYwFAp60MHYIppwxTjhmkKuIXIQQkS4tqDERQQT
+IQhlELnM1kRj7bhCQg4agPaDgoqKkR8kqa3NCYHC8jjBSArBmQu5p7FSyGKcQduh
+zPEsaBI7wzjNMHAej1WjH5qY2eQn8V6i/5+5uyftkNRQYgdbSDGKbdewQkSZ0MaN
+EOSmwlhFAd+qjFpHPOjqwaC3AUSqFHaptK2xXzDMMch9CBzKEWIOdCDFAhHuIKGk
+5dqMIsvWWniOJJhRbWZaUtoUudTFnkURppxSqEGH8TYFS76YNE+b9EJxHhQaw6hg
+uIpRmIQi3GKOOpOkGOdSrGRHMdX2KC//zCXv+YE0b2QySiqK/TAAOWSUIvFTW0Qo
+sS1oetUA1PaiH6m8nyoMswPNSOuokrGkUhAuPcYopBwjpQghwhYQInNBKV3GlKOo
+45i4ptK2tGVJhi1ljgSHAoH0XtuCEOSwbTh5wXia1gU86Y4U6L1y6aOpmWxN5pXK
+KennzdRMq3v+pcXeqifoXKbpQXtzc9X8L1qXzP21re31RfUHNhz6+5d2faw+frzy
+r8U1+y8MjFVc+23KicHtUcumPWuOV/Wz8qfnP3lj+HYyZ198p2/TeMvHPdGK9zvu
+7h9tLd/PB1eWHIkGFqgnnadm3hhZNtJ7vPYkfTs/XN90ZuW91aOv/bP1wOnvvj1a
+OtsyvfVI5nDT9fKPw32VSx1RvXHdxBC/WB6/t7eRzBmNF+YmancPLX1wPZi3/NLA
+yWP//fEqnSdvrBl6b+LWmygzv/Ln02vfmTqjom3x+ezBYHBV9cOzdT/c7Cl3jDya
+1rdrdjg+9v3vX5P2b778bN+poUdXv+pHC6wZ+K3m/kOf57Lr7876c8Xhp8o/UR4=
+=XaZL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/frankw2
+
+==================================================================
+

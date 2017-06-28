@@ -132,27 +132,24 @@ li {
 #mypic {
   width: 225px;
   height: 225px;
-  background-image: url(../images/me.jpg);
-  background-image:url(../images/mesquare.png);
-  background-image:url(../images/me_faculty2.png);
+  background-image: url(../images/frank.jpg);
   background-size: 225px;
   background-repeat: no-repeat;
   background-position: 0;
   display: inline-block;
 }
 
-#mypic:hover {
+/*#mypic:hover {
   background-image:url(../images/eugene.png);
   background-size: 155px;
   background-position: 35; 
-  /*
+
   background-image:url(../images/me_faculty2.png);
   background-size: 175px;
   background-repeat: no-repeat;
   background-position: 0;
-  */
 
-}
+}*/
 
 #signature {
   background-image:url(../images/signature.png);

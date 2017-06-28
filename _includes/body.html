@@ -11,14 +11,19 @@
       <div class="col-md-6">
         <h4>Publications</h4>
         <div id="publications sidebar">
-          <cloudstitch-handlebars user="sirrice" app="wu-publications"></cloudstitch-handlebars>
+          <cloudstitch-handlebars user="frankw" app="frank-wang-publications"></cloudstitch-handlebars>
         </div>
         <div style="font-size: 9pt">
-          Powered by <a href="http://www.cloudstitch.io/">cloudstitch</a>.  
-          <a href="https://www.cloudstitch.com/academic/eugene-wu-publications">clonethis</a>
+          Powered by <a href="https://www.cloudstitch.io/">cloudstitch</a>.  
+          <a href="https://www.cloudstitch.com/academic/frank-wang-publications">clonethis</a>
         </div>
+        <div class="tight">
+          {% capture profact %}{% include profact.md %}{% endcapture %}
+          {{ profact | markdownify }}
+        </div>
+         
+     </div>
 
-      </div>
       <div class="col-md-3">
         <div class="sidebar tight">
         {% capture misc %}{% include misc.md %}{% endcapture %}

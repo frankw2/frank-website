@@ -1,0 +1,6 @@
+*.aux
+cv.pdf
+*.bbl
+*.log
+*.out
+*.xml

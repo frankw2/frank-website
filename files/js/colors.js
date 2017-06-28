@@ -5,7 +5,7 @@ function addStyle(str) {
   return sheet;
 };
 
-var colors = ["1054B2", "FF5E4A", "3187FF", "04B21A", "D952FF", "16B277", "FF3D3B", "CC2239", "365DCC"];
+var colors = ["1054B2", "3187FF", "088F1A", "9A0AC1", "16B277", "B50906", "365DCC"];
 var hue = Math.floor(Math.random() * 200) + 100; // hue = 201;
 var hue = Math.floor(Math.random() * 300);
 var color = "hsla(" + hue + ", 73%, 52%, 0.7)";
