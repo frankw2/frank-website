@@ -10,8 +10,10 @@ TA, Winter 2012
 
 #### Some Fun Links
 
+* [cute dog](http://www.sanger.dk/)
+* [SEC Fort Worth Twitter](https://twitter.com/FortWorth_SEC)
 * [My Undergradate Research Experience](./files/papers/article.pdf)
-* [Alapcas](https://twitter.com/BarnacreAlpacas)
+* [alapcas](https://twitter.com/BarnacreAlpacas)
 * [One Mile at a Time](http://onemileatatime.boardingarea.com/)
 * [Ron Swanson by the Fire](https://www.youtube.com/watch?v=LS-ErOKpO4E)
 * [The Points Guy](http://thepointsguy.com/)
