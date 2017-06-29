@@ -15,8 +15,10 @@ and the goal of my systems is to minimize information leakage when these
 breaches occur. More broadly, my research interests lie at the 
 intersection of systems, cryptography, and web applications.
  
-I also enjoy collaborating closely and interacting frequently
-with industry. 
+I also enjoy collaborating and interacting
+with industry executives to identify and address future 
+needs in the security industry.
+To bridge the gap between academia and industry,
 I co-founded [Cybersecurity Factory](https://cybersecurityfactory.com) with
 [Jean Yang](http://jeanyang.com), a summer program for early stage cybersecurity
-startups, and I am a member of [Rough Draft Ventures](http://roughdraft.vc).
+startups. I am also a member of [Rough Draft Ventures](http://roughdraft.vc).
