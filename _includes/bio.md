@@ -8,7 +8,7 @@ Some of my other close collaborators are
 [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/),
 [Shafi Goldwasser](http://people.csail.mit.edu/shafi/),
 and [Matei Zaharia](https://cs.stanford.edu/~matei/).
-Before MIT, I received my B.S. in computer science from Stanford University,
+Before MIT, I received my B.S. in computer science from Stanford,
 advised by [Dan Boneh](http://crypto.stanford.edu/~dabo/).
 
 The underlying philosophy of my research 
