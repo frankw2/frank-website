@@ -15,10 +15,11 @@ The underlying philosophy of my research
 is that breaches and hacks have become inevitable, 
 and the goal of secure 
 systems should be to minimize information 
-leakage when these breaches occur. 
-However, systems with these protections should still be practical.
-More broadly, I am interested in building practical secure systems,
-especially in web application settings.
+leakage practically when these breaches occur. 
+Much of my research has focused on developing
+methods to use cryptography more efficiently and 
+broadly, especially in web application settings.
+More broadly, I am interested in building practical secure systems.
  
 I also enjoy collaborating and interacting
 with industry executives to identify and address future 
