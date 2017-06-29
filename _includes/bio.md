@@ -17,8 +17,8 @@ and the goal of secure
 systems should be to minimize information 
 leakage practically when these breaches occur. 
 Much of my research has focused on developing
-methods to use cryptography more efficiently and 
-broadly, especially in web application settings.
+methods to use cryptography more efficiently, 
+especially in web application settings.
 More broadly, I am interested in building practical secure systems.
  
 I also enjoy collaborating and interacting
