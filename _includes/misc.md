@@ -17,4 +17,5 @@ TA, Winter 2012
 * [One Mile at a Time](http://onemileatatime.boardingarea.com/)
 * [Ron Swanson by the Fire](https://www.youtube.com/watch?v=LS-ErOKpO4E)
 * [The Points Guy](http://thepointsguy.com/)
+* [watermelon](https://www.youtube.com/watch?v=4dAy9u0_9nM)
 * [The Wirecutter](http://thewirecutter.com/)
