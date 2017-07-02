@@ -15,7 +15,7 @@ The underlying philosophy of my research
 is that breaches and hacks have become inevitable, 
 and the goal of secure 
 systems should be to minimize information 
-leakage practically when these breaches occur. 
+leakage when these breaches occur. 
 Much of my research has focused on developing
 methods to use cryptography more efficiently, 
 especially in web application settings.
