@@ -10,6 +10,7 @@ TA, Winter 2012
 
 #### Some Fun Links
 
+* [security too expensive?](http://www.commitstrip.com/en/2017/06/19/security-too-expensive-try-a-hack/)
 * [cute dog](http://www.sanger.dk/)
 * [SEC Fort Worth Twitter](https://twitter.com/FortWorth_SEC)
 * [My Undergradate Research Experience](./files/papers/article.pdf)
