@@ -14,6 +14,7 @@ for the 2016-2017 academic year!
 A summary of the talks can be found on this [blog](https://medium.com/mit-security-seminar).
 * Check out the [video](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/wang-frank) 
 of my talk at NSDI on my paper, [Splinter: Practical Private Queries on Public Data](./files/papers/wang-splinter.pdf).
+* I am talking about research, cybersecurity startups, etc. on [Startup Security Weekly](https://securityweekly.com/2017/03/14/frank-wang-cybersecurity-factory-startup-security-weekly-29/)!
 * My paper [Splinter: Practical Private Queries on Public Data](./files/papers/wang-splinter.pdf), 
  has been accepted into [NSDI 2017](https://www.usenix.org/conference/nsdi17)!
 * I am TA-ing [6.829: Computer Networks](http://web.mit.edu/6.829/www/2016/).
