@@ -12,6 +12,7 @@ TA, Winter 2012
 
 * [security too expensive?](http://www.commitstrip.com/en/2017/06/19/security-too-expensive-try-a-hack/)
 * [cute dog](http://www.sanger.dk/)
+* [Paris Review boring sleep reads](https://www.theparisreview.org/blog/tag/sleepy/)
 * [SEC Fort Worth Twitter](https://twitter.com/FortWorth_SEC)
 * [My Undergradate Research Experience](./files/papers/article.pdf)
 * [alpacas](https://twitter.com/BarnacreAlpacas)
