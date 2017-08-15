@@ -3,7 +3,7 @@ layout: index
 ---
 
 
-
+* My [podcast](http://pgbovine.net/PG-Podcast-30-Frank-Wang.htm) with the one and only [Phil Guo](http://pgbovine.net/) about the vital role of people in technology is online!
 * Function secret sharing [library](https://github.com/frankw2/libfss) (Go and C++ versions) 
 from the Splinter [paper](./files/papers/wang-splinter.pdf) released!
 * Cybersecurity Factory 2017 has [launched](https://medium.com/cybersecurity-factory/announcing-teams-for-cybersecurity-factory-2017-fce6e8067cdf)!

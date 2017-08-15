@@ -110,7 +110,7 @@ li {
   clear: both;
 }
 
-#gregory {
+/*#gregory {
     width: 100px;
     height: 100px;
     background-size:cover;
@@ -126,7 +126,7 @@ li {
 }
 #banana:hover {
   background-image:url(../images/banana_bye.png);
-}
+}*/
 
 
 #mypic {
