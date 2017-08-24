@@ -11,5 +11,4 @@ Twitter: [@ffwang2](https://twitter.com/ffwang2)
 
 Director: [MIT Security Seminar](http://css.csail.mit.edu/security-seminar/)  
 Co-founder: [Cybersecurity Factory](http://cybersecurityfactory.com/)  
-Member: [Rough Draft Ventures](http://roughdraft.vc/)  
 Board of Trustees: [Sidney-Pacific](http://s-p.mit.edu/)

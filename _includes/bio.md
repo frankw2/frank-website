@@ -16,10 +16,12 @@ is that breaches and hacks have become inevitable,
 and the goal of secure 
 systems should be to minimize information 
 leakage when these breaches occur. 
-Much of my research has focused on developing
+Naturally, much of my research has focused on developing
 methods to use cryptography more efficiently, 
 especially in web application settings.
-More broadly, I am interested in building practical secure systems.
+In addition to building cryptographic systems,
+I am broadly interested in developing practical
+secure systems for large-scale web applications.
  
 I also enjoy collaborating and interacting
 with industry executives to identify and address future 
