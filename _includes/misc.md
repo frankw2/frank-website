@@ -5,7 +5,7 @@ TA, Fall 2016
 * [6.858: Computer Systems Security](http://css.csail.mit.edu/6.858/2012/)  
 TA, Fall 2012
 
-* [CS 255: Introduction to Cryptography](http://crypto.stanford.edu/~dabo/courses/cs255_winter12/)
+* [CS 255: Introduction to Cryptography](http://crypto.stanford.edu/~dabo/courses/cs255_winter12/)  
 TA, Winter 2012
 
 #### Some Fun Links
