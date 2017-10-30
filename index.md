@@ -2,6 +2,8 @@
 layout: index
 ---
 
+* My paper, "Obscura: Private Browsing Semantics Without Browser-side Assistance," has been 
+accepted at [NDSS 2018](https://www.ndss-symposium.org/ndss2018/).
 * My paper, "Cobweb: Making Remote Attestation Practical Using Context-sensitive Dependencies," has been accepted 
 at [SysTEX 2017](https://systex17.ibr.cs.tu-bs.de/).
 * My [podcast](http://pgbovine.net/PG-Podcast-30-Frank-Wang.htm) with the one and only [Phil Guo](http://pgbovine.net/) about the vital role of people in technology is online!
