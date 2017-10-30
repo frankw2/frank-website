@@ -2,7 +2,7 @@
 layout: index
 ---
 
-* My paper, "Obscura: Private Browsing Semantics Without Browser-side Assistance," has been 
+* My paper [Obscura: Private Browsing Semantics Without Browser-side Assistance](./files/paper/wang-cobweb.pdf) has been 
 accepted at [NDSS 2018](https://www.ndss-symposium.org/ndss2018/).
 * My paper, "Cobweb: Making Remote Attestation Practical Using Context-sensitive Dependencies," has been accepted 
 at [SysTEX 2017](https://systex17.ibr.cs.tu-bs.de/).
