@@ -19,9 +19,9 @@ are now an essential part of people's lives.
 These services provide value by collecting
 and analyzing user data. However,
 once the user provides her information to the web service,
-she \textit{loses control} over how the application uses or accesses
+she loses control over how the application uses or accesses
 that data. For example, a user cannot control where the application
-forwards her data. Even if the service \textit{wanted} to allow users to 
+forwards her data. Even if the service wanted to allow users to 
 define access controls, it is unclear how these access controls
 should be expressed and enforced. My research addresses these concerns.
  
