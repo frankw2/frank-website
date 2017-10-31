@@ -11,17 +11,19 @@ and [Matei Zaharia](https://cs.stanford.edu/~matei/).
 Before MIT, I received my B.S. in computer science from Stanford,
 advised by [Dan Boneh](http://crypto.stanford.edu/~dabo/).
 
-The underlying philosophy of my research 
-is that breaches and hacks have become inevitable, 
-and the goal of secure 
-systems should be to minimize information 
-leakage when these breaches occur. 
-Naturally, much of my research has focused on developing
-methods to use cryptography more efficiently, 
-especially in web application settings.
-In addition to building cryptographic systems,
-I am broadly interested in developing practical
-secure systems for large-scale web applications.
+I am interested in building practical secure systems that
+protect user data in large-scale, distributed web application systems.
+Naturally, much of my research lies at the intersection of systems
+and cryptography. Web services, such as Google, Facebook, and Dropbox,
+are now an essential part of people's lives.
+These services provide value by collecting
+and analyzing user data. However,
+once the user provides her information to the web service,
+she \textit{loses control} over how the application uses or accesses
+that data. For example, a user cannot control where the application
+forwards her data. Even if the service \textit{wanted} to allow users to 
+define access controls, it is unclear how these access controls
+should be expressed and enforced. My research addresses these concerns.
  
 I also enjoy collaborating and interacting
 with industry executives to identify and address future 
