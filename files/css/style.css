@@ -188,18 +188,18 @@ li {
 
 @media  (max-width:990px) {
   html,body {
-    font-size: 20pt;
+    font-size: 18pt;
   }
   h1 {
-    font-size: 22pt;
+    font-size: 20pt;
   }
   h4 {
     margin-top: 2em;
-    font-size: 22pt;
+    font-size: 20pt;
     margin-bottom: 1em;
   }
   .stitle {
-    font-size: 22pt;
+    font-size: 20pt;
   }
   .header div {
   }
