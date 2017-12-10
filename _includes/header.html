@@ -7,11 +7,7 @@
         <div id="mypic"></div>
       </div>
       <div class="col-md-6">
-       <h4>Bio</h4>
-        {% capture bio %}{% include bio.md %}{% endcapture %}
-        {{ bio | markdownify }}
-                
-<div class="tight">
+      <div class="tight">
  <p><span class="applyheading">
 I am on the faculty job market this year! 
 </p>
@@ -21,6 +17,11 @@ I am on the faculty job market this year!
 <li><a href="./files/papers/teaching.pdf">Teaching Statement</a></li>
 </ul>
 </div>
+ 
+        <h4>Bio</h4>
+        {% capture bio %}{% include bio.md %}{% endcapture %}
+        {{ bio | markdownify }}
+                
 </div>
       <div class="col-md-3">
         {% capture info %}{% include info.md %}{% endcapture %}
