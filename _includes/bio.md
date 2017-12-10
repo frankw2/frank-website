@@ -11,20 +11,11 @@ and [Matei Zaharia](https://cs.stanford.edu/~matei/).
 Before MIT, I received my B.S. in computer science from Stanford,
 advised by [Dan Boneh](http://crypto.stanford.edu/~dabo/).
 
+Broadly speaking, my research lies at the intersection of systems
+and cryptography. More specifically,
 I am interested in building practical secure systems that
 protect user data in large-scale, distributed web application systems.
-Naturally, much of my research lies at the intersection of systems
-and cryptography. Web services, such as Google, Facebook, and Dropbox,
-are now an essential part of people's lives.
-These services provide value by collecting
-and analyzing user data. However,
-once the user provides her information to the web service,
-she loses control over how the application uses or accesses
-that data. For example, a user cannot control where the application
-forwards her data. Even if the service wanted to allow users to 
-define access controls, it is unclear how these access controls
-should be expressed and enforced. My research addresses these concerns.
- 
+
 I also enjoy collaborating and interacting
 with industry executives to identify and address future 
 needs in the security industry.
