@@ -21,5 +21,5 @@ To bridge the gap between academia and industry,
 I co-founded [Cybersecurity Factory](https://cybersecurityfactory.com) with
 [Jean Yang](http://jeanyang.com), a summer program for early stage cybersecurity
 startups. Top security companies and venture firms, like Highland Capital, Rapid7,
-Cybereason, and Akamai sponsor and support our program!
+Cybereason, and Akamai, sponsor and support our program!
 You can also find me hanging out with people from [Rough Draft Ventures](http://roughdraft.vc).
