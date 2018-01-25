@@ -1,3 +1,10 @@
+#### Travel
+* 2/18-21: NDSS
+
+* 2/26-27: Microsoft Research
+
+* TBD: VMware Research
+
 #### Teaching
 * [6.829: Computer Networks](http://web.mit.edu/6.829/www/2016/)  
 TA, Fall 2016
