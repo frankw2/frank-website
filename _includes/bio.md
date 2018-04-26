@@ -1,4 +1,4 @@
-I am currently a Ph.D student at MIT CSAIL in the 
+I am a final year Ph.D student at MIT CSAIL in the 
 [PDOS](https://pdos.csail.mit.edu/) group, 
 advised by [Nickolai Zeldovich](https://people.csail.mit.edu/nickolai/) 
 and [James Mickens](https://mickens.seas.harvard.edu).
