@@ -1,4 +1,7 @@
 #### Teaching
+* [6.858: Computer Systems Security](https://css.csail.mit.edu/6.858/2018/)
+TA, Spring 2018
+
 * [6.829: Computer Networks](http://web.mit.edu/6.829/www/2016/)  
 TA, Fall 2016
 
