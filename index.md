@@ -2,6 +2,7 @@
 layout: index
 ---
 
+* Cybersecurity Factory 2018 is [underway](https://medium.com/cybersecurity-factory/announcing-teams-for-cybersecurity-factory-2018-34eed918e0d8)!
 * Check out my [interview](https://www.acscenter.org/resources/cyberbytes/201711_Frank_Wang.html) with the Advanced
 Cyber Security Center on security research, academia, and startups in Boston.
 * My paper, [Veil: Private Browsing Semantics Without Browser-side Assistance](./files/papers/wang-veil.pdf), has been 
