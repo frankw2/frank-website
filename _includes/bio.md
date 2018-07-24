@@ -1,3 +1,12 @@
+#I am an investor at [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm)
+#focused on early-stage enterprise infrastructure and security investments.
+#If you are working on a cool company in this area, please send me an email! 
+#Most of the content on this website is from a past life. I still occasionally
+#write papers and interesting technical blog posts. Follow me on 
+#[Medium](https://medium.com/@ffwang2) and [Twitter](https://twitter.com/ffwang2)
+#to see what I'm doing!
+
+# I finished my Ph.D at MIT in the 
 I am a final year Ph.D student at MIT CSAIL in the 
 [PDOS](https://pdos.csail.mit.edu/) group, 
 advised by [Nickolai Zeldovich](https://people.csail.mit.edu/nickolai/) 
