@@ -8,21 +8,16 @@ papers. To keep up with what's happening in my life,
 you can also follow me on [Medium](https://medium.com/@ffwang2) 
 and [Twitter](https://twitter.com/ffwang2).
 
-I received my PhD from MIT where I was in the 
+I received my PhD from MIT focused on security and cryptography. I was in the 
 [PDOS](https://pdos.csail.mit.edu/) group, 
 advised by [Nickolai Zeldovich](https://people.csail.mit.edu/nickolai/) 
 and [James Mickens](https://mickens.seas.harvard.edu).
-Some of my other close collaborators are
+Some of my other close collaborators were
 [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/),
 [Shafi Goldwasser](http://people.csail.mit.edu/shafi/),
 and [Matei Zaharia](https://cs.stanford.edu/~matei/).
 Before MIT, I received my B.S. in computer science from Stanford,
 advised by [Dan Boneh](http://crypto.stanford.edu/~dabo/).
-
-Broadly speaking, my research was at the intersection of systems
-and cryptography. More specifically,
-I was interested in building practical secure systems that
-protect user data in large-scale, distributed web application systems.
 
 During my PhD, to bridge the gap between academia and industry,
 I co-founded [Cybersecurity Factory](https://cybersecurityfactory.com) with
