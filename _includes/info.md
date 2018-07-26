@@ -10,5 +10,5 @@ Twitter: [@ffwang2](https://twitter.com/ffwang2)
 Keybase: [frankw2](https://keybase.io/frankw2)
 <!-- Github: [ffwang2](https://github.com/frankw2) -->
 
-Investor: [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm)
+Investor: [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm)  
 Co-founder: [Cybersecurity Factory](http://cybersecurityfactory.com/)  
