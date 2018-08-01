@@ -2,6 +2,7 @@
 layout: index
 ---
 
+* Our paper, Riverbed:Enforcing User-defined Privacy Constraints in Distributed Web Services, has been accepted to [NSDI 2019](https://www.usenix.org/conference/nsdi19)!
 * I have finished my PhD, and I am joining [Dell Technologies Capital](https://medium.com/@ffwang2/im-joining-dell-technologies-capital-68a2c9738086) as an investor!
 * Cybersecurity Factory 2018 is [underway](https://medium.com/cybersecurity-factory/announcing-teams-for-cybersecurity-factory-2018-34eed918e0d8)!
 * Check out my [interview](https://www.acscenter.org/resources/cyberbytes/201711_Frank_Wang.html) with the Advanced
