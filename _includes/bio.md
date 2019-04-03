@@ -2,6 +2,8 @@ I am currently an investor at [Dell Technologies Capital](https://www.delltechno
 focused on early-stage security and enterprise infrastructure investments.
 If you are working on a cool startup in this space, please email me!
 
+You can also follow my thoughts on tech and research as a enterprise/security VC and recovering academic through [my weekly newsletter, Frankly Speaking](https://mailchi.mp/5fea8517cbe3/frankly-speaking).
+
 This website is from an old life where I did academia for a living.
 However, I still write about cool technical ideas and occasionally publish
 papers. To keep up with what's happening in my life,
