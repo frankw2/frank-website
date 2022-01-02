@@ -1,14 +1,12 @@
-I am currently an investor at [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm)
-focused on early-stage security and enterprise infrastructure investments.
-If you are working on a cool startup in this space, please email me!
+I am currently a security engineer at [dbt labs](https://www.getdbt.com/). In the past, I dabbled in venture capital at 
+[Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm) and academia.
 
-You can also follow my thoughts on tech and research as a enterprise/security VC and recovering academic through [my weekly newsletter, Frankly Speaking](https://franklyspeaking.substack.com).
+I occasionally write about my thoughts on security in [my Substack newsletter, Frankly Speaking](https://franklyspeaking.substack.com).
 
 This website is from an old life where I did academia for a living.
 However, I still write about cool technical ideas and occasionally publish
 papers. To keep up with what's happening in my life,
-you can also follow me on [Medium](https://medium.com/@ffwang2) 
-and [Twitter](https://twitter.com/ffwang2).
+you can also follow me on [Twitter](https://twitter.com/ffwang2).
 
 I received my PhD from MIT focused on security and cryptography. I was in the 
 [PDOS](https://pdos.csail.mit.edu/) group, 

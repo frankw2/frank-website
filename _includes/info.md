@@ -1,6 +1,6 @@
 #### Info
 
-[frank.y.wang@dell.com](mailto:frank.y.wang@dell.com)  
+[frank.wang@dbtlabs.com](mailto:frank.wang@dbtlabs.com)  
 [Old Academic CV](./files/cv/cv.pdf)
 <!--[32-G978B, 32 Vassar Street](http://whereis.mit.edu/?go=32)  -->
 
@@ -10,5 +10,4 @@ Twitter: [@ffwang2](https://twitter.com/ffwang2)
 Keybase: [frankw2](https://keybase.io/frankw2)
 <!-- Github: [ffwang2](https://github.com/frankw2) -->
 
-Investor: [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm)  
-Co-founder: [Cybersecurity Factory](http://cybersecurityfactory.com/)  
+Security Engineer: [dbt labs](https://getdbt.com)  
