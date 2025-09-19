@@ -2,7 +2,7 @@
 
 [Old Academic CV](./files/cv/cv.pdf)
 
-Blog: [FranklySpeaking](https://franklyspeaking.substack.com)
+Blog: [Frankly Speaking Substack](https://franklyspeaking.substack.com)
 LinkedIn: [frankw1](https://www.linkedin.com/in/frankw1/)  
 Twitter: [@ffwang2](https://twitter.com/ffwang2)  
 Keybase: [frankw2](https://keybase.io/frankw2)
