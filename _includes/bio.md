@@ -1,4 +1,4 @@
-I am currently a security engineer at [SurgeAI](https://www.surgehq.ai/). Before this,
+I am currently a security engineer at [Surge AI](https://www.surgehq.ai/). Before this,
 I was the first security hire at [Headway](https://headway.co/) and the first security engineer at [dbt Labs](https://www.getdbt.com/). 
 In the past, I dabbled in venture capital at 
 [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm) and academia.
