@@ -1,5 +1,6 @@
-I am currently the lead security engineer at [Headway](https://headway.co/). Before this, I
-was the first security engineer at [dbt Labs](https://www.getdbt.com/). In the past, I dabbled in venture capital at 
+I am currently a security engineer at [SurgeAI](https://www.surgehq.ai/). Before this,
+I was the first security hire at [Headway](https://headway.co/) and the first security engineer at [dbt Labs](https://www.getdbt.com/). 
+In the past, I dabbled in venture capital at 
 [Dell Technologies Capital](https://www.delltechnologies.com/en-us/capital/ventures.htm) and academia.
 
 I regularly write about my thoughts on security in [my Substack newsletter, Frankly Speaking](https://franklyspeaking.substack.com).
