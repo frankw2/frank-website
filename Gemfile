@@ -8,9 +8,13 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 3.10"
 gem "webrick"
 gem "kramdown-parser-gfm", "~> 1.1"
+
+# SafeYAML and Liquid require these on Ruby 3.4 and later.
+gem "base64"
+gem "bigdecimal"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
