@@ -1,5 +1,5 @@
 *.aux
-cv.pdf
+!/cv.pdf
 *.bbl
 *.log
 *.out
